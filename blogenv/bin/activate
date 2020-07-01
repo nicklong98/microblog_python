@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/nick/repos/learn/python/microblog/blogenv"
+VIRTUAL_ENV="/home/nick/repos/learn/python/microblog_python/blogenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

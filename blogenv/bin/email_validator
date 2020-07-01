@@ -1,4 +1,4 @@
-#!/home/nick/repos/learn/python/microblog/blogenv/bin/python
+#!/home/nick/repos/learn/python/microblog_python/blogenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

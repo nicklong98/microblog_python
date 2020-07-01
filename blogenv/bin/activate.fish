@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/nick/repos/learn/python/microblog/blogenv"
+set -gx VIRTUAL_ENV "/home/nick/repos/learn/python/microblog_python/blogenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
