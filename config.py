@@ -14,3 +14,5 @@ class Config(object):
     MAIL_USERNAME = os.environ.get('MAIL_USERNAME')
     MAIL_PASSWORD = os.environ.get('MAIL_PASSWORD')
     ADMINS = ['nick.long@singularity-id.com']
+
+    POSTS_PER_PAGE = int(os.environ.get('POSTS_PER_PAGE') or 3)
