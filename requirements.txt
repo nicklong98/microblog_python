@@ -133,7 +133,7 @@ toml==0.10.1
 tornado==6.0.4
 tuijam==0.7.1
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 urwid==2.1.0
 validictory==1.1.2
 wcwidth==0.2.4
