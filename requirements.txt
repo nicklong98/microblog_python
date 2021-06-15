@@ -128,7 +128,7 @@ sphinxcontrib-serializinghtml==1.1.4
 SQLAlchemy==1.3.18
 team==1.0
 texttable==1.6.2
-thefuck==3.30
+thefuck==3.31
 toml==0.10.1
 tornado==6.0.4
 tuijam==0.7.1
