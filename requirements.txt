@@ -68,7 +68,7 @@ mallard-ducktype==1.0.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
 MechanicalSoup==0.12.0
-mitmproxy==5.1.1
+mitmproxy==8.0.0
 mock==3.0.5
 msgpack==1.0.0
 mutagen==1.44.0
