@@ -63,7 +63,7 @@ ldap3==2.7
 lensfun==0.3.95
 lutris==0.5.6
 lxml==4.5.1
-Mako==1.1.3
+Mako==1.2.2
 mallard-ducktype==1.0.2
 Markdown==3.1.1
 MarkupSafe==1.1.1
